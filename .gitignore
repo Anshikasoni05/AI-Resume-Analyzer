@@ -1,0 +1,17 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Editor and OS files
+.vscode/
+.DS_Store
+
+# Uploaded resumes and generated reports
+uploads/
+reports/
